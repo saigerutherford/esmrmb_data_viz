@@ -1,0 +1,10 @@
+# Core plotting
+bokeh==3.5.0
+
+# Data handling
+pandas>=2.0
+numpy>=1.26
+
+# Optional but useful for tutorials or notebook execution
+jupyterlab>=4.0
+notebook>=7.0
