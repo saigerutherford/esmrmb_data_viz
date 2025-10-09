@@ -4,10 +4,10 @@ This repository contains written instructions, links to code, and data used for 
 
 ## This tutorial contains two parts: 
 
-Part 1.) Interactive scatter plots
+Part 1.) Interactive scatter plots [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/esmrmb_data_viz/blob/main/notebooks/interactive_scatter_plots.ipynb)
 
 
-Part 2.) Interactive brain plots
+Part 2.) Interactive brain plots [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/esmrmb_data_viz/blob/main/notebooks/interactive_brain_plots.ipynb)
 
 Both parts involve a short presentation and overview of the learning content (stored in the `presentation/` directory) and a python notebook for running the code (stored in the `notebooks/` directory). 
 
